@@ -9,7 +9,7 @@
 
 <ul>
   <li>💻 <strong>Languages:</strong> Java (main), HTML, CSS, JavaScript, SQL  </li>
-  <li>🔐 <strong>Cybersecurity:</strong> Exploring Cybersecurity as part of my Security class</li>
+  <li>🔐 <strong>Cybersecurity:</strong> Exploring Cybersecurity </li>
   <li>🐧 <strong>Tools:</strong> Linux (Ubuntu, Mint), Git & GitHub, IntelliJ IDEA, VS Code</li>
 </ul>
 
