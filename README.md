@@ -1,11 +1,11 @@
-# 👨‍💻 About Me
+#  About Me
 
 I'm a <strong>6th-semester Computer Engineering student</strong> at <em>FES Aragón – UNAM</em>, passionate about <strong>software development</strong> and exploring the world of <strong>cybersecurity</strong>.  
 I have <strong>basic programming knowledge</strong> and I'm currently strengthening my understanding of software design and computer systems through academic and personal projects.
 
 ---
 
-### 🛠Skills & Interests
+### Skills & Interests
 
 <ul>
   <li> <strong>Languages:</strong> Java (main), HTML, CSS, JavaScript, SQL  </li>
