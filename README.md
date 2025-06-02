@@ -27,7 +27,6 @@ I have <strong>basic programming knowledge</strong> and I'm currently strengthen
 
 ### Let's Connect!
 
-I'm eager to keep learning and pushing forward — one step at a time.  
 Let’s build something meaningful! 
 
 marcusmario27@gmail.com
